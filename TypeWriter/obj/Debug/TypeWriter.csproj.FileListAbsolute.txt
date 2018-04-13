@@ -1,0 +1,10 @@
+C:\Users\mestero\Documents\SharpDevelop Projects\TypeWriter\TypeWriter\obj\Debug\TypeWriter.csprojResolveAssemblyReference.cache
+C:\Users\mestero\Documents\SharpDevelop Projects\TypeWriter\TypeWriter\obj\Debug\TypeWriter.MainForm.resources
+C:\Users\mestero\Documents\SharpDevelop Projects\TypeWriter\TypeWriter\obj\Debug\TypeWriter.csproj.GenerateResource.Cache
+C:\Users\mestero\Documents\SharpDevelop Projects\TypeWriter\TypeWriter\bin\Debug\TypeWriter.exe.config
+C:\Users\mestero\Documents\SharpDevelop Projects\TypeWriter\TypeWriter\bin\Debug\TypeWriter.exe
+C:\Users\mestero\Documents\SharpDevelop Projects\TypeWriter\TypeWriter\bin\Debug\TypeWriter.pdb
+C:\Users\mestero\Documents\SharpDevelop Projects\TypeWriter\TypeWriter\bin\Debug\WindowsInput.dll
+C:\Users\mestero\Documents\SharpDevelop Projects\TypeWriter\TypeWriter\bin\Debug\WindowsInput.xml
+C:\Users\mestero\Documents\SharpDevelop Projects\TypeWriter\TypeWriter\obj\Debug\TypeWriter.exe
+C:\Users\mestero\Documents\SharpDevelop Projects\TypeWriter\TypeWriter\obj\Debug\TypeWriter.pdb
