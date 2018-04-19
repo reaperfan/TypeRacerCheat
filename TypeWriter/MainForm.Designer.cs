@@ -1,11 +1,4 @@
-﻿/*
- * Created by SharpDevelop.
- * User: mestero
- * Date: 2017. 12. 11.
- * Time: 13:58
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
+
 namespace TypeWriter
 {
 	partial class MainForm
