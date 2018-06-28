@@ -48,8 +48,8 @@ namespace TypeWriter
 				SetForegroundWindow(Chr);
 				foreach (var element in chars)
 				{
-				SendKeys.Send(element.ToString());
-				System.Threading.Thread.Sleep((int)numericUpDown1.Value);
+					SendKeys.Send(element.ToString());
+					System.Threading.Thread.Sleep((int)numericUpDown1.Value);
 				}
 				textBox1.Text ="";
 					
